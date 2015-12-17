@@ -80,7 +80,7 @@ public class WhamixPlayerController : MonoBehaviour
 	/// <summary>
 	/// Max body alignment rotation per iteration.
 	/// </summary>
-	public float AlignMaxRot = 2.5f;
+	public float AlignMaxRot = 3.75f;
 
 	/// <summary>
 	/// Modifies the strength of gravity.
